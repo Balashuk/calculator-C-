@@ -1,0 +1,40 @@
+C:\Users\Bart\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Bart\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Bart\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Bart\source\repos\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Bart\source\repos\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Bart\source\repos\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Bart\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Bart\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Bart\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\SanMa\Desktop\ГДЗ\»_«u_a__oa___ 2 ¬___\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\SanMa\Desktop\ГДЗ\»_«u_a__oa___ 2 ¬___\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\SanMa\Desktop\ГДЗ\»_«u_a__oa___ 2 ¬___\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\SanMa\Desktop\ГДЗ\»_«u_a__oa___ 2 ¬___\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\SanMa\Desktop\ГДЗ\»_«u_a__oa___ 2 ¬___\Calculator\Calculator\obj\Debug\Calculator.calculator.resources
+C:\Users\SanMa\Desktop\ГДЗ\»_«u_a__oa___ 2 ¬___\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\SanMa\Desktop\ГДЗ\»_«u_a__oa___ 2 ¬___\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\SanMa\Desktop\ГДЗ\»_«u_a__oa___ 2 ¬___\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\SanMa\Desktop\ГДЗ\»_«u_a__oa___ 2 ¬___\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\SanMa\Desktop\ГДЗ\»_«u_a__oa___ 2 ¬___\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Диск D\Учоба\2 Курс\Програмування\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Диск D\Учоба\2 Курс\Програмування\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Диск D\Учоба\2 Курс\Програмування\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Диск D\Учоба\2 Курс\Програмування\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Диск D\Учоба\2 Курс\Програмування\Calculator\Calculator\obj\Debug\Calculator.calculator.resources
+C:\Диск D\Учоба\2 Курс\Програмування\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Диск D\Учоба\2 Курс\Програмування\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Диск D\Учоба\2 Курс\Програмування\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Диск D\Учоба\2 Курс\Програмування\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Диск D\Учоба\2 Курс\Програмування\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\gamey\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\gamey\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\gamey\Desktop\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\gamey\Desktop\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\gamey\Desktop\Calculator\Calculator\obj\Debug\Calculator.calculator.resources
+C:\Users\gamey\Desktop\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\gamey\Desktop\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\gamey\Desktop\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\gamey\Desktop\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\gamey\Desktop\Calculator\Calculator\obj\Debug\Calculator.pdb
